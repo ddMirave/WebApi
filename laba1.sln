@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "laba1", "laba1_Pivkin4\laba1.csproj", "{650F7E2D-61BA-4489-B1D0-1C5EA7B76B70}"
+	ProjectSection(ProjectDependencies) = postProject
+		{73D7A21B-25D3-4373-A995-0B1C5563D70C} = {73D7A21B-25D3-4373-A995-0B1C5563D70C}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contracts.", "Contracts\Contracts..csproj", "{3A7A0EBE-2C56-4593-BC94-DA47E2C2AB25}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoggerService", "LoggerService\LoggerService.csproj", "{73D7A21B-25D3-4373-A995-0B1C5563D70C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3A7A0EBE-2C56-4593-BC94-DA47E2C2AB25} = {3A7A0EBE-2C56-4593-BC94-DA47E2C2AB25}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{650F7E2D-61BA-4489-B1D0-1C5EA7B76B70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{650F7E2D-61BA-4489-B1D0-1C5EA7B76B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{650F7E2D-61BA-4489-B1D0-1C5EA7B76B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{650F7E2D-61BA-4489-B1D0-1C5EA7B76B70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A7A0EBE-2C56-4593-BC94-DA47E2C2AB25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A7A0EBE-2C56-4593-BC94-DA47E2C2AB25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A7A0EBE-2C56-4593-BC94-DA47E2C2AB25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A7A0EBE-2C56-4593-BC94-DA47E2C2AB25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73D7A21B-25D3-4373-A995-0B1C5563D70C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D7A21B-25D3-4373-A995-0B1C5563D70C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D7A21B-25D3-4373-A995-0B1C5563D70C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D7A21B-25D3-4373-A995-0B1C5563D70C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA489EE4-B7B5-4BFB-9D07-4D30D26BC6C7}
+	EndGlobalSection
+EndGlobal

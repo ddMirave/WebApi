@@ -1,0 +1,15 @@
+C:\Users\alesh\OneDrive\Рабочий стол\практика\day6\laba1_Pivkin4\LoggerService\bin\Debug\net6.0\LoggerService.deps.json
+C:\Users\alesh\OneDrive\Рабочий стол\практика\day6\laba1_Pivkin4\LoggerService\bin\Debug\net6.0\LoggerService.dll
+C:\Users\alesh\OneDrive\Рабочий стол\практика\day6\laba1_Pivkin4\LoggerService\bin\Debug\net6.0\LoggerService.pdb
+C:\Users\alesh\OneDrive\Рабочий стол\практика\day6\laba1_Pivkin4\LoggerService\bin\Debug\net6.0\Contracts..dll
+C:\Users\alesh\OneDrive\Рабочий стол\практика\day6\laba1_Pivkin4\LoggerService\bin\Debug\net6.0\Contracts..pdb
+C:\Users\alesh\OneDrive\Рабочий стол\практика\day6\laba1_Pivkin4\LoggerService\obj\Debug\net6.0\LoggerService.csproj.AssemblyReference.cache
+C:\Users\alesh\OneDrive\Рабочий стол\практика\day6\laba1_Pivkin4\LoggerService\obj\Debug\net6.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alesh\OneDrive\Рабочий стол\практика\day6\laba1_Pivkin4\LoggerService\obj\Debug\net6.0\LoggerService.AssemblyInfoInputs.cache
+C:\Users\alesh\OneDrive\Рабочий стол\практика\day6\laba1_Pivkin4\LoggerService\obj\Debug\net6.0\LoggerService.AssemblyInfo.cs
+C:\Users\alesh\OneDrive\Рабочий стол\практика\day6\laba1_Pivkin4\LoggerService\obj\Debug\net6.0\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\alesh\OneDrive\Рабочий стол\практика\day6\laba1_Pivkin4\LoggerService\obj\Debug\net6.0\LoggerService.csproj.CopyComplete
+C:\Users\alesh\OneDrive\Рабочий стол\практика\day6\laba1_Pivkin4\LoggerService\obj\Debug\net6.0\LoggerService.dll
+C:\Users\alesh\OneDrive\Рабочий стол\практика\day6\laba1_Pivkin4\LoggerService\obj\Debug\net6.0\refint\LoggerService.dll
+C:\Users\alesh\OneDrive\Рабочий стол\практика\day6\laba1_Pivkin4\LoggerService\obj\Debug\net6.0\LoggerService.pdb
+C:\Users\alesh\OneDrive\Рабочий стол\практика\day6\laba1_Pivkin4\LoggerService\obj\Debug\net6.0\ref\LoggerService.dll
